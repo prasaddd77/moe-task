@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:nineti_gmbh/result.dart';
+import 'package:moe_qr_scanner/result.dart';
 import 'package:qr_code_scanner/qr_code_scanner.dart';
 
 class QrCodeScanner extends StatefulWidget {

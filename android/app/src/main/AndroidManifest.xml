@@ -2,7 +2,7 @@
     <uses-permission android:name="android.permission.CAMERA" />
 
     <application
-        android:label="nineti_gmbh"
+        android:label="moe_qr_scanner"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

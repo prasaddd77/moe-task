@@ -34,6 +34,7 @@ class _ResultOfQrScreenState extends State<ResultOfQrScreen> {
             letterSpacing: 1,
           ),
         ),
+        
       ),
       body: Center(
         child: Column(
